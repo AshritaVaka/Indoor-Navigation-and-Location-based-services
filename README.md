@@ -1,4 +1,4 @@
-# # Inland Navigation Algorithm Analysis Project
+# # Indoor Navigation and Location based services using BFS,DFS,A* and Dijkstra Algorithms
 
 ## Overview
 This repository contains the code and documentation for an AI project conducted at BITS Hyderabad under the guidance of Professor Jabez Christopher. 
